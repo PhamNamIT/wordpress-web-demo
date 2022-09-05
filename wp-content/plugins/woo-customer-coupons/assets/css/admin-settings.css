@@ -1,0 +1,94 @@
+
+#vi_wcc-form_search_coupon {
+    margin-top: 20px;
+}
+
+.form-field.vi_wcc_coupon_template {
+    max-width: 50%;
+    margin: 20px auto;
+    width: 200px;
+}
+
+.tablenav .actions {
+    padding: 0 !important;
+}
+
+.vi_wcc_status_enable {
+    display: flex;
+    float: left;
+}
+
+.vi_wcc_status_enable li {
+    margin-right: 8px;
+}
+
+.vi_wcc_status_enable li a {
+    text-decoration: none !important;
+}
+
+.wrap form .segment .vi-ui.dropdown.selection {
+    min-height: 37px !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.iris-picker {
+    position: absolute !important;
+    z-index: 5;
+}
+
+.vi-wcc-accordion {
+    margin: 30px auto;
+}
+
+.vi-ui.form .field > label {
+    font-weight: 500 !important;
+}
+
+.wcc-button-shop-now {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 30px;
+    margin: 10px;
+}
+
+.preview-emails-html-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 99999;
+}
+
+.preview-emails-html-container .preview-emails-html-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(1, 1, 1, 0.3);
+}
+
+.preview-emails-html-container .preview-emails-html {
+    position: relative;
+    z-index: 99;
+    width: 50%;
+    max-height: 90%;
+    overflow: auto;
+    min-width: 650px;
+}
+
+.vi_wcc_hidden {
+    display: none !important;
+    visibility: hidden !important;
+}

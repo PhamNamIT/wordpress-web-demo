@@ -1,0 +1,47 @@
+.form-field.vi_wcc_coupon_template {
+    max-width: 50%;
+    margin: 20px 150px;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 {
+    width: 200px !important;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 .vi_wcc_woo_custumer_coupon-content .vi_wcc_woo_custumer_coupon-title {
+    line-height: 40px;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 .vi_wcc_woo_custumer_coupon-content .vi_wcc_coupon_content_expire {
+    margin-top: 3px !important;
+    margin-bottom: 8px !important;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 .vi_wcc_woo_custumer_coupon_button .vi_wcc_woo_custumer_coupon_button_click {
+    font-size: large;
+    padding: 3px;
+
+}
+
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-2 .vi_wcc_woo_custumer_coupon-content .vi_wcc_woo_custumer_coupon-title {
+    margin-top: 5px;
+
+
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-2 .vi_wcc_woo_custumer_coupon-content .vi_wcc_coupon_content_expire {
+
+    margin-bottom: 8px;
+}
+
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-3 .vi_wcc_woo_custumer_coupon-content .vi_wcc_woo_custumer_coupon-title {
+    margin-top: -5px;
+
+
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-4 .vi_wcc_woo_custumer_coupon-title {
+    font-size: 26px !important;
+    padding: 5px !important;
+}

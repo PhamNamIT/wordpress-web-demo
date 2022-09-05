@@ -1,0 +1,487 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Customer Coupons for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-17 08:39+0000\n"
+"PO-Revision-Date: 2022-08-30 06:24+0000\n"
+"Last-Translator: PhamNam\n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1"
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:296
+msgid " The coupon title that you set on the coupons tab"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:298
+msgid " The terms of coupon that you set on the coupons tab"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:696
+msgid "10px"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:699
+msgid "20px"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:693
+msgid "3px"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:413
+msgid "After cart"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:414
+msgid "After list category"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:411
+msgid "After price"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:410
+msgid "After title"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:189
+msgid "All"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/frontend/frontend.php:204
+msgid "Apply Coupon"
+msgstr "Dùng ngay"
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/frontend/frontend.php:432
+msgid "Available Coupons! Click on a coupon to use it"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:510
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:546
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:627
+msgid "Background"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:432
+msgid "Background color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:412
+msgid "Before cart"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:409
+msgid "Before title"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:526
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:606
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:707
+msgid "Border color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:690
+msgid "Border radius"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:580
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:661
+msgid "Border type"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:334
+msgid "Button \"Shop now\" background"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:368
+msgid "Button \"Shop now\" border radius"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:345
+msgid "Button \"Shop now\" color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:356
+msgid "Button \"Shop now\" font size"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:316
+msgid "Button \"Shop now\" title"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:325
+msgid "Button \"Shop now\" url"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:485
+msgid "Button background color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:493
+msgid "Button text color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/coupons.php:240
+msgid "Check  this box if this coupon will show on your site."
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:518
+msgid "Color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:461
+msgid "Content title color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/coupons-table.php:234
+msgid "Coupon Code"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:469
+msgid "Coupon description color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:477
+msgid "Coupon expire color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:150
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/frontend/frontend.php:45
+msgid "Coupons"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/coupons.php:218
+msgid "Customer Coupon"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:26
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:27
+msgid "Customer Coupons"
+msgstr ""
+
+#. Name of the plugin
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:147
+msgid "Customer Coupons for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Customer Coupons for WooCommerce helps you display your coupons on website."
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:589
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:670
+msgid "Dashed"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:221
+msgid "Date format"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:232
+msgid "DD-MM-Y"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:238
+msgid "DD/MM/YY"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/coupons-table.php:238
+msgid "Description"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:382
+msgid "Design"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:195
+msgid "Disable"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:583
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:664
+msgid "Dotted"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:592
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:673
+msgid "Double"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:248
+msgid "Email"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/coupons-table.php:235
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/coupons.php:239
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:192
+msgid "Enable"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:570
+msgid "Expire color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/frontend/frontend.php:94
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/frontend/frontend.php:612
+msgid "Expires on: "
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:226
+msgid "F j, Y"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/coupons-table.php:221
+msgid "Filter"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:304
+msgid "From the date that given coupon will no longer be available"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:215
+msgid "General"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:595
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:676
+msgid "Groove"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woocommerce-customer-coupons/"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:440
+msgid "Linear gradient for content background color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/coupons.php:269
+msgid "Minimum order 20$"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:235
+msgid "MM/DD/YY"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/frontend/frontend.php:612
+msgid "Never expire"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/coupons.php:351
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:110
+msgid "never expires"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/frontend/frontend.php:71
+msgid "No coupon code to apply"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/frontend/frontend.php:446
+msgid "No coupon."
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/coupons-table.php:75
+msgid "No title"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:685
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:702
+msgid "None"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:408
+msgid "Not show"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:43
+msgid "Number of per page"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:152
+msgid "Options"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:601
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:682
+msgid "Outset"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/woo-customer-coupons.php:31
+msgid ""
+"Please install and activate WooCommerce to use Customer Coupons for "
+"WooCommerce."
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:406
+msgid "Position on the single product page"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:65
+msgid "Preview emails"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/coupons-table.php:239
+msgid "Product"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/coupons-table.php:240
+msgid "Product Category"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/frontend/frontend.php:595
+msgid "Promotions"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:598
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:679
+msgid "Ridge"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:722
+msgid "Save"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:199
+msgid "Search coupons"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:403
+msgid "Select the coupon's template."
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:241
+msgid "Select the date format."
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:416
+msgid "Select the location to show coupon's description ."
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/coupons.php:249
+msgid "Send an email to your customer if this coupon is created or updated."
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/coupons.php:248
+msgid "Send email"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/admin.php:22
+msgid "Settings"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:726
+msgid "Settings default"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/coupons.php:278
+msgid "Show on"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:586
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:667
+msgid "Solid"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/coupons-table.php:241
+msgid "Start date"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:388
+msgid "Template"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:400
+msgid "Template Four"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:391
+msgid "Template One"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:397
+msgid "Template Three"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:394
+msgid "Template Two"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:651
+msgid "Term and Expire date color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/coupons-table.php:237
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/coupons.php:267
+msgid "Terms"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:562
+msgid "Terms color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:306
+msgid "That last day that coupon is valid"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:302
+msgid "The code of coupon that will be sent to your customer"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/coupons.php:271
+msgid "The terms of coupon"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/coupons.php:260
+msgid "The title of coupon"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:308
+msgid "The title of your website"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:300
+msgid ""
+"The value of coupon, can be percentage or currency amount depending on "
+"coupon type"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/coupons.php:280
+msgid "This coupon will show on your site that day(default date created)"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/coupons-table.php:236
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/coupons.php:258
+msgid "Title"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:635
+msgid "Title background color"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:554
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:643
+msgid "Title color"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:878
+msgid "Would you want to reset to default settings?"
+msgstr ""
+
+#: D:/git/free-version/woo-customer-coupons/woo-customer-coupons/includes/admin/settings.php:229
+msgid "Y-MM-DD"
+msgstr ""

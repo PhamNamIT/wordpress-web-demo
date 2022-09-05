@@ -1,0 +1,85 @@
+.vi_wcc-coupon-single-product {
+    max-width: 100%;
+    position: relative;
+    margin-bottom: 10px;
+    min-height: 50px;
+}
+
+div.vi_wcc-coupon-single-product div.vi_wcc-coupon-single-product-title {
+    max-width: 100%;
+    overflow: hidden;
+}
+
+
+.vi_wcc-coupon-single-product-title1 {
+    float: left;
+    text-align: center;
+    padding-top: 3%;
+}
+
+.vi_wcc-coupon-single-product-title2 {
+    float: left;
+    margin-left: 3%;
+    max-width: 70%;
+    min-width: 70%;
+}
+
+.vi_wcc-coupon-single-product-title3 {
+    float: left;
+    margin-left: 5%;
+    margin-top: 3%;
+    color: snow;
+    border-radius: 3px;
+    padding: 1% 3%;
+    background: #e49335;
+
+}
+
+.vi_wcc-coupon-single-product:hover .vi_wcc-coupon-single-product-content {
+    display: block;
+}
+
+.vi_wcc-coupon-single-product-content {
+    overflow: hidden;
+    position: absolute;
+    max-width: 100%;
+    min-width: 90%;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    background: #fff;
+    left: 0;
+    top: 100%;
+    z-index: 9;
+    display: none;
+    transition: all .5s ease;
+}
+
+.vi_wcc-coupon-single-product-description {
+    max-width: 100%;
+    display: flex;
+    margin-bottom: 5px;
+
+}
+
+.vi_wcc-coupon-single-product-description-title {
+    color: snow;
+    border-radius: 3px;
+    padding: 3px 6px;
+    background: #e49335;
+    margin-left: 10px;
+    margin-top: 8px;
+
+}
+
+.vi_wcc-coupon-single-product-description-terms-expire {
+    margin-left: 10px;
+}
+
+.vi_wcc-coupon-single-product-description-terms {
+
+}
+
+
+

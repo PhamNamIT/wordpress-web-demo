@@ -1,0 +1,330 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+.vi_wcc_woo_custumer_coupon {
+    position: relative;
+    cursor: pointer;
+}
+
+.vi_wcc_lds-dual-ring {
+    position: absolute;
+    display: none;
+    width: 64px;
+    height: 64px;
+    top: 30%;
+    left: 35%;
+}
+
+.vi_wcc_lds-dual-ring-show {
+    display: inline-block;
+}
+
+.vi_wcc_lds-dual-ring:after {
+    content: " ";
+    display: block;
+    width: 46px;
+    height: 46px;
+    margin: 1px;
+    border-radius: 50%;
+    border: 5px solid #f9dcbf;
+    border-color: #f3eded transparent #f3eded transparent;
+    animation: lds-dual-ring 1.2s linear infinite;
+}
+
+@keyframes lds-dual-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 {
+    max-width: 100%;
+    min-width: 230px;
+    overflow: hidden;
+    opacity: 0.9;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1:hover {
+    opacity: 1;
+}
+
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1:hover:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 80%;
+    height: 100%;
+    background: rgba(255, 255, 255, .2);
+    transform: skewX(-30deg);
+    animation: shine linear 5s forwards;
+    z-index: 1;
+}
+
+@keyframes shine {
+    0% {
+        transform: skewX(-30deg) translateX(-150px);
+    }
+    50% {
+        transform: skewX(-30deg) translateX(150px);
+
+
+    }
+    100% {
+        transform: skewX(-30deg) translateX(350px);
+    }
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 .vi_wcc_woo_custumer_coupon-content {
+    max-width: 100%;
+    text-align: center;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    position: relative;
+    overflow: hidden;
+    background-color: #ffbb00ab;
+    background-image: linear-gradient(315deg, #ffbb00ab 0%, #f47b7b 85%);
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 .vi_wcc_woo_custumer_coupon-content:before {
+    position: absolute;
+    left: -0.75em;
+    max-width: 10%;
+    max-height: 10%;
+    bottom: -0.75em;
+    padding: 0.75em;
+    content: '';
+    border-radius: 50%;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 .vi_wcc_woo_custumer_coupon-content:after {
+    position: absolute;
+    right: -0.75em;
+    max-width: 10%;
+    max-height: 10%;
+    bottom: -0.75em;
+    padding: 0.75em;
+    content: '';
+    border-radius: 50%;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 .vi_wcc_woo_custumer_coupon-content .vi_wcc_woo_custumer_coupon-title {
+    font-size: 2em;
+    font-weight: bolder;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 .vi_wcc_woo_custumer_coupon-content .vi_wcc_woo_custumer_coupon-des {
+
+    font-size: 12px;
+    overflow: hidden;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 .vi_wcc_woo_custumer_coupon-content .vi_wcc_coupon_content_expire {
+
+    overflow: hidden;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 .vi_wcc_woo_custumer_coupon_button {
+    text-align: center;
+    max-width: 100%;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    position: relative;
+    overflow: hidden;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 .vi_wcc_woo_custumer_coupon_button:before {
+    position: absolute;
+    left: -0.75em;
+    max-width: 10%;
+    max-height: 10%;
+    top: -0.75em;
+    padding: 0.75em;
+    content: '';
+    border-radius: 50%;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 .vi_wcc_woo_custumer_coupon_button:after {
+    position: absolute;
+    right: -0.75em;
+    top: -0.75em;
+    padding: 0.75em;
+    content: '';
+    border-radius: 50%;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-1 .vi_wcc_woo_custumer_coupon_button .vi_wcc_woo_custumer_coupon_button_click {
+    border: 0;
+    background: none;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+
+/*temple two*/
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-2 {
+    max-width: 100%;
+    overflow: hidden;
+    min-width: 180px;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-2.vi_wcc_woo_custumer_coupon_button_click {
+    border: 0;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: .97em;
+    letter-spacing: .03em;
+    position: relative;
+    font-weight: 600;
+    text-align: center;
+    text-shadow: none;
+    margin: 0;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-2.vi_wcc_woo_custumer_coupon_button_click:hover {
+
+    box-shadow: inset 0 0 20px rgba(255, 255, 255, 0.5), 0 0 20px rgba(255, 255, 255, 0.2);
+    outline-color: rgba(255, 255, 255, 0);
+    outline-offset: 15px;
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-2 .vi_wcc_woo_custumer_coupon-content {
+    border-radius: 8px;
+    text-align: center;
+
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-2 .vi_wcc_woo_custumer_coupon-content .vi_wcc_woo_custumer_coupon-title {
+    line-height: normal;
+    font-size: 2em;
+    font-weight: 700;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-2 .vi_wcc_woo_custumer_coupon-content .vi_wcc_woo_custumer_coupon-des {
+    font-size: 12px;
+    overflow: hidden;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-2 .vi_wcc_woo_custumer_coupon-content .vi_wcc_coupon_content_expire {
+    overflow: hidden;
+}
+
+
+/*temple three*/
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-3 {
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 20px;
+    min-width: 180px;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-3.vi_wcc_woo_custumer_coupon_button_click {
+    border-radius: 20px;
+    padding-top: 8px;
+    font-size: .97em;
+    letter-spacing: .03em;
+    position: relative;
+    font-weight: 600;
+    text-align: center;
+    text-shadow: none;
+    margin: 0;
+    text-transform: none;
+    line-height: 24px;
+}
+
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-3 .vi_wcc_woo_custumer_coupon-content {
+    border-radius: 20px;
+    text-align: center;
+    overflow: hidden;
+    padding: 8px 0 3px 0;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-3 .vi_wcc_woo_custumer_coupon-content .vi_wcc_woo_custumer_coupon-title {
+    line-height: normal;
+    font-size: 2em;
+    font-weight: 700;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-3 .vi_wcc_woo_custumer_coupon-content .vi_wcc_woo_custumer_coupon-des,
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-3 .vi_wcc_woo_custumer_coupon-content .vi_wcc_coupon_content_expire {
+    font-size: 0.97em;
+    overflow: hidden;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+/*temple four*/
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-4 {
+    max-width: 100%;
+    overflow: hidden;
+    min-width: 180px;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-4.vi_wcc_woo_custumer_coupon_button_click {
+    letter-spacing: .03em;
+    position: relative;
+    text-align: center;
+    text-shadow: none;
+    padding: 0;
+    margin: 0;
+    text-transform: none;
+    line-height: 24px;
+    border: 0;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-4.vi_wcc_woo_custumer_coupon_button_click:hover {
+
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-4 .vi_wcc_woo_custumer_coupon-title {
+    line-height: normal;
+    font-size: 2em;
+    font-weight: 700;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    max-width: 100%;
+    border-bottom: 0;
+    overflow: hidden;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-4 .vi_wcc_woo_custumer_coupon-content {
+    text-align: center;
+    overflow: hidden;
+    max-width: 100%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding: 0 1%;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-4 .vi_wcc_woo_custumer_coupon-content .vi_wcc_woo_custumer_coupon-des {
+    max-width: 100%;
+    font-weight: 700;
+    font-size: 16px;
+    overflow: hidden;
+    margin: 8px 2px;
+}
+
+.vi_wcc_woo_custumer_coupon.vi_wcc_woo_custumer_coupon-4 .vi_wcc_woo_custumer_coupon-content .vi_wcc_coupon_content_expire {
+    max-width: 100%;
+    font-size: 13px;
+    overflow: hidden;
+    line-height: 18px;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+
+
+
